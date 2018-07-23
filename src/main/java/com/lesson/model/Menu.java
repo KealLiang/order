@@ -6,7 +6,7 @@ public class Menu {
     String mname;
     float price;
 
-  /*  public int getMid() {
+    public int getMid() {
         return mid;
     }
 
@@ -36,6 +36,6 @@ public class Menu {
 
     public void setPrice(float price) {
         this.price = price;
-    }*/
+    }
 
 }
